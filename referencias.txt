@@ -1,0 +1,13 @@
+PHP
+https://github.com/luispastendev/Slim4-Skeleton
+https://www.youtube.com/watch?v=DjK5vTcxW6o
+
+JWT
+https://github.com/frank505/SLIM3API
+https://github.com/maurobonfietti/rest-api-slim-php
+https://github.com/letsila/slim3-jwt-auth-example
+https://github.com/tuupola/slim-jwt-auth
+https://steemit.com/utopian-io/@alfarisi94/build-rest-api-in-slim-microframework-part-2-jwt
+
+REACT
+https://bit.dev/calumbrash/react-utils/cryptography/sha1/~code
